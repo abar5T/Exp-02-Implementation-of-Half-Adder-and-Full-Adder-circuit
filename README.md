@@ -1,7 +1,7 @@
 # Exp-03 Implementation of Half Adder and Full Adder circuit..
 
-### Project By: RAVIVARMAN G S
-###   Register No: 23006420
+### Project By: ABARI RAJITHAN
+###   Register No: 23009593
 
 
 ### AIM:
